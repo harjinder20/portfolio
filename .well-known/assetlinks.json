@@ -1,0 +1,11 @@
+{
+  "relation": "delegate",
+  "target": {
+    "namespace": "Divide",
+    "package_name": "com.kalra.divide"
+  },
+  "sha256_cert_fingerprints": [
+    "24:5A:42:03:30:76:2E:09:69:C9:57:35:05:DC:D9:46:0F:8D:6D:32:0D:D7:E4:C0:50:25:D0:76:BE:C9:D7:EF",
+    "de:6f:11:11:a7:ec:d7:de:d5:13:96:b9:a0:fb:0e:dc:94:3c:64:77:6b:d9:3c:ad:42:22:be:ba:62:52:fc:ed"
+  ]
+}
